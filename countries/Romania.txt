@@ -1,1 +1,0 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.alibaba.com&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=c906f73d3ba8211f&type=tcp&headerType=none#%40LifeVpnCompany%20
