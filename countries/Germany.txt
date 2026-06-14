@@ -1,0 +1,2 @@
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?encryption=none&security=tls&sni=speedtest.net&insecure=1&allowInsecure=1&type=ws&host=apiv2.global.ssl.fastly.net&path=%2F#%40LifeVpnCompany%20
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?encryption=none&security=tls&sni=4dcb0d80784f3081.hozheen.ir&insecure=0&allowInsecure=0&type=ws&host=newgen14.hozheen.ir&path=%2Fws#%40LifeVpnCompany%20
