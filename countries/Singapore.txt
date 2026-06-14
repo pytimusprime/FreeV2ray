@@ -1,1 +1,0 @@
-vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?encryption=none&security=tls&sni=group.shalana.xyz&insecure=0&allowInsecure=0&type=ws&host=group.shalana.xyz&path=%2Fshalana#%40LifeVpnCompany%20
