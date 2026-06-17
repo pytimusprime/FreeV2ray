@@ -1,0 +1,1 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn4-35.yahoo.com&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79&type=tcp&headerType=none#%40LifeVpnCompany%20%F0%9F%87%B0%F0%9F%87%BF
